@@ -1,0 +1,6 @@
+D:\Kate\net\lec\lec_17_18\Example\Example_2\bin\Debug\Example_2.exe.config
+D:\Kate\net\lec\lec_17_18\Example\Example_2\bin\Debug\Example_2.exe
+D:\Kate\net\lec\lec_17_18\Example\Example_2\bin\Debug\Example_2.pdb
+D:\Kate\net\lec\lec_17_18\Example\Example_2\obj\Debug\Example_2.csprojResolveAssemblyReference.cache
+D:\Kate\net\lec\lec_17_18\Example\Example_2\obj\Debug\Example_2.exe
+D:\Kate\net\lec\lec_17_18\Example\Example_2\obj\Debug\Example_2.pdb
